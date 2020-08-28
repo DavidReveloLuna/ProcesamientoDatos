@@ -29,3 +29,4 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
 ## Módulos del curso
 
 ### [1. Numeros Complejos](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/1_NumerosComplejos.ipynb)
+### [2. Downsampling](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/2_Downsampling.ipynb)
