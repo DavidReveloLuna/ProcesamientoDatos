@@ -18,7 +18,7 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
     
 
 ## Correr el curso
-    Descargar el repositorio, ingrear desde conda y ejecutar jupyter notebook
+    Descargar el repositorio, ingresar desde conda y ejecutar jupyter notebook
     
     $d:
     $cd [directorio]
