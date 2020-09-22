@@ -31,3 +31,4 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
 ### [1. Numeros Complejos](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/1_NumerosComplejos.ipynb)
 ### [2. Downsampling](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/2_Downsampling.ipynb)
 ### [3. Convolución_1](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/3_%20Convolucion_1.ipynb)
+### [4. Convolución_2D](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/4_%20Convolucion_2.ipynb)
