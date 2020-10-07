@@ -6,9 +6,6 @@ int sensor;       // variable que almacena el valor raw (0 a 1023)
 // Variables para filtro digital 1er orden
 float vok, vik, vo;
 
-// Variables para medir tiempo de muestreo
-unsigned long tiempo1, tmuestreo;
-
 void setup()
 {
    Serial.begin(230400);        //Inicio serial
@@ -30,24 +27,20 @@ void loop()
 
     sensor = analogRead(sensorPin);   // realizar la lectura
 
-    // filtro digital 3Hz
+    // filtro digital pasabajas 3Hz
     vo=0.56801*vok+0.43191*vik;
-
-
-    // filtro digital 1Hz
-    // vo=0.8282*vok+0.17179*vik;
 
    // Actualizar valores
     vok=vo;
     vik=(float)sensor;
 
-
-   // Serial.print(vo);
+    /*Para graficar local*/
+   // Serial.print(vo); //señal filtrada
    // Serial.print(" ");
-   // Serial.println(sensor);
+   // Serial.println(sensor); //señal sin filtrar
 
-    // Envio para filtrar en PC
-     Serial.print("$");
-     Serial.println(sensor);
+    /*Para envío procesamiento en PC*/
+     //Serial.print("$");
+     //Serial.println(sensor);
 }
     
