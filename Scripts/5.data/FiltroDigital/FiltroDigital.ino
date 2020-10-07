@@ -11,7 +11,7 @@ unsigned long tiempo1, tmuestreo;
 
 void setup()
 {
-   Serial.begin(9600);        //Inicio serial
+   Serial.begin(230400);        //Inicio serial
    Timer1.initialize(30000);  // Inicio timer
    Timer1.attachInterrupt(ISR_RA); // Activa la interrupcion y la asocia a ISR_RA
 
@@ -41,12 +41,13 @@ void loop()
     vok=vo;
     vik=(float)sensor;
 
-    Serial.print(vo);
-    Serial.print(" ");
-    Serial.println(sensor);
+
+   // Serial.print(vo);
+   // Serial.print(" ");
+   // Serial.println(sensor);
 
     // Envio para filtrar en PC
-    // Serial.print("$");
-    // Serial.println(sensor);
+     Serial.print("$");
+     Serial.println(sensor);
 }
     
