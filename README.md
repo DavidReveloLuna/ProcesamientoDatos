@@ -34,3 +34,4 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
 ### [4. Convolución_2D](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/4_%20Convolucion_2.ipynb)
 ### [5. TransformadaZ_Filtros](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/5_%20Filtro_TransformadaZ.ipynb)
 ### [6. Series de Fourier](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/6_Series_Fourier.ipynb)
+### [7. FFT-Tiempo Real](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/7_FFT_TiempoReal.ipynb)
