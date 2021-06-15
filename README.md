@@ -37,4 +37,4 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
 ### [7. FFT-Tiempo Real](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/7_FFT_TiempoReal.ipynb)
 
 # **Canal de Youtube**
-[Click aquì pare ver mi canal](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
+[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
