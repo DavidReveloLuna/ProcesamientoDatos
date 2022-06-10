@@ -35,6 +35,7 @@ En este repositorio trabajaremos la parte práctica en Python de algunos temas r
 ### [5. TransformadaZ_Filtros](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/5_%20Filtro_TransformadaZ.ipynb)
 ### [6. Series de Fourier](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/6_Series_Fourier.ipynb)
 ### [7. FFT-Tiempo Real](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/7_FFT_TiempoReal.ipynb)
+### [8. FFT-Video](https://github.com/DavidReveloLuna/ProcesamientoDatos/blob/master/Scripts/8_FiltroFFTVideo.ipynb)
 
 # **Canal de Youtube**
 [Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
