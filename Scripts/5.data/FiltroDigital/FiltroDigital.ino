@@ -40,7 +40,7 @@ void loop()
    // Serial.println(sensor); //señal sin filtrar
 
     /*Para envío procesamiento en PC*/
-     //Serial.print("$");
-     //Serial.println(sensor);
+     Serial.print("$");
+     Serial.println(sensor);
 }
     
